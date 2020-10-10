@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on making digital banking easier and more intuitive @[Advantage FSE](https://github.com/advantagefse)
 - 🌱 I’m currently learning how to be a better problem solver
 - 👯 I’m looking for a new challenge
-- 🤔 I’m looking for help with building strong development skills
 - 💬 Ask me about my reading habits
 - 📫 How to reach me: DM me @[Linkedin](https://www.linkedin.com/in/haris1331/)
+</br>
 </br>
 </br>
 
