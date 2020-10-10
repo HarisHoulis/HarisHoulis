@@ -9,4 +9,4 @@
 - 💬 Ask me about my reading habits
 - 📫 How to reach me: DM me @[Linkedin](https://www.linkedin.com/in/haris1331/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=charis1331&show_icons=true&hide_border=true) <img src="https://github.com/Charis1331/Charis1331/blob/master/video.gif" width="300" height="300" align='right|bottom' alt="gif here"/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=charis1331&show_icons=true&hide_border=true)<img src="https://github.com/Charis1331/Charis1331/blob/master/video.gif" width="300" height="300" align='right' alt="gif here"/>
