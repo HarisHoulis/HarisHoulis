@@ -2,7 +2,7 @@
 
 ### Hi there, I am Haris Houlis 👋
 
-- 🔭 I’m currently working on making digital banking easier and more intuitive @[Advantage FSE](https://github.com/advantagefse)
+- 🔭 I’m currently working on making digital banking easier and more intuitive @[Beat](https://thebeat.co/gr/)
 - 🌱 I’m currently learning how to be a better problem solver
 - 👯 I’m looking for a new challenge
 - 💬 Ask me about my reading habits
