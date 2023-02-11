@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning how to be a better problem solver
 - 👯 I’m looking for a new challenge
 - 💬 Ask me about my reading habits
-- 📫 How to reach me: DM me @[Linkedin](https://www.linkedin.com/in/haris1331/](https://www.linkedin.com/in/harishoulis/)
+- 📫 How to reach me: DM me @[Linkedin](https://www.linkedin.com/in/harishoulis/)
 </br>
 </br>
 </br>
