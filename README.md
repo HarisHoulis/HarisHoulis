@@ -11,4 +11,4 @@
 </br>
 </br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HarisHoulis&show_icons=true&hide_border=true)<img src="https://github.com/HarisHoulis/HarisHoulis/blob/master/video.gif" width="300" height="300" align='right' alt="gif here"/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=HarisHoulis&show_icons=true&hide_border=true)<img src="https://github.com/HarisHoulis/HarisHoulis/blob/main/video.gif" width="300" height="300" align='right' alt="gif here"/>
