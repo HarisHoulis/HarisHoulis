@@ -2,7 +2,7 @@
 
 ### Hi there, I am Haris Houlis 👋
 
-- 🔭 I’m currently working on serving millions of people with high-quality ride hailing services @[Beat](https://thebeat.co/gr/)
+- 🔭 I’m currently working on serving millions of people with high-quality (live and on-demand) sports stats @[WBD](https://wbd.com/)
 - 🌱 I’m currently learning how to be a better problem solver
 - 👯 I’m looking for a new challenge
 - 💬 Ask me about my reading habits
